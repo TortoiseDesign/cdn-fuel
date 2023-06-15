@@ -1,3 +1,11 @@
+# Đã Việt Hóa
+
+Hi, thank you for use my script, I'm very grateful!
+
+If you need help contact me on discord: Tortoise Design#9228
+
+Discord server: https://discord.gg/3GFKFPaxK3
+
 ![Codine Development Fuel Script Banner](https://i.imgur.com/qVOMMvW.png)
 
 # _CDN-Fuel (2.1.4)_ 
