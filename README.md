@@ -397,11 +397,6 @@ Here's a couple of videos showcasing the script in action!
 
 ![Codine Development Links Banner](https://i.imgur.com/SAqArzg.png)
 
-### Codine Links
-
-- [Discord](https://discord.gg/Ta6QNnuxM2)
-- [Tebex](https://codine.tebex.io/)
-- [Youtube](https://www.youtube.com/channel/UC3Nr0qtyQP9cGRK1m25pOqg)
 
 ### Credits:
 
